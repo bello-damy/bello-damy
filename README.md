@@ -8,7 +8,7 @@
 - linkedin: https://www.linkedin.com/in/yussuf-bello-475533235?trk=contact-info
 - github: bello-damy
 - };
-- ⚡ Fun fact: I'm absolutely great with what I do and also funny.
+- ⚡ Fun fact: I'm absolutely great at what I do and also funny.
 - 😄 humour is the spice to life.
 
 <!---
