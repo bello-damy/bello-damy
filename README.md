@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning sql and php.
 - 💞️ I’m looking to collaborate with other developers.
-- 📫 How to reach me = () => {
+- 📫 you can reach me = () => {
 - email: dbello447@gmail.com
 - phone: +447398824903
 - linkedin: https://www.linkedin.com/in/yussuf-bello-475533235?trk=contact-info
