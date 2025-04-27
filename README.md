@@ -1,7 +1,5 @@
 - 👋 Hi, i'm Yussuf D. Bello
-- 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning sql and php.
-- 💞️ I’m looking to collaborate with other developers.
+-  I’m interested in learning new things, I’m currently learning sql and php.
 - 📫 you can reach me = () => {
 - email: dbello447@gmail.com
 - phone: +447398824903
