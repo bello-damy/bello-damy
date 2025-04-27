@@ -1,4 +1,4 @@
-- 👋 Hi, i'm Yussuf D. Bello
+# 👋 Hi, i'm Yussuf D. Bello
 -  I’m interested in learning new things, I’m currently learning sql and php.
 - 📫 you can reach me = () => {
 - email: dbello447@gmail.com
