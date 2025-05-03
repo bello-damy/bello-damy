@@ -1,6 +1,6 @@
 # 👋 Hi, i'm Yussuf D. Bello
 -  I’m interested in learning new things, I’m currently learning sql and php.
-- 📫 you can reach me = () => {
+- 📫 you can reach me via = () => {
 - email: dbello447@gmail.com
 - phone: +447398824903
 - linkedin: https://www.linkedin.com/in/yussuf-bello-475533235?trk=contact-info
